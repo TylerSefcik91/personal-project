@@ -1,0 +1,24 @@
+section.nav-section {
+    background-image: linear-gradient(40deg, crimson, purple, darkblue, lightblue, blue);
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: goldenrod;
+}
+
+.nav-bar {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: gold;
+    
+}
